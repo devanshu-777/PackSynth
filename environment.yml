@@ -1,0 +1,17 @@
+name: PackSynth
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - pandas
+  - ipywidgets
+  - rdkit
+  - mpi4py
+  - lammps
+  - mp_api
+  - packmol-py
+  - py3dmol
+  - jupyterlab

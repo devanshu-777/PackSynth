@@ -1,0 +1,17 @@
+# Core scientific computing libraries
+numpy
+matplotlib
+pandas
+MDAnalysis
+
+# Molecular modeling and simulation
+rdkit-pypi
+lammps
+packmol-py
+py3Dmol
+
+# Data handling and API client
+mp-api
+
+# Interactive notebook features
+ipywidgets

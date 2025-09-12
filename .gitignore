@@ -1,0 +1,35 @@
+# Gitignore for a scientific computing project
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environment files
+.venv/
+env/
+venv/
+.env
+
+# Simulation output files
+*.dump
+*.xyz
+*.lammpstrj
+*.data
+*.in
+*.log
+checkpoint.json
+
+# Local artifacts from modeling tools
+*.pdb
+*.xyz
+*.sdf
+*.cif
+
+# IDE-specific files (VS Code)
+.vscode/
+.history
