@@ -19,7 +19,7 @@ By combining powerful open-source tools like RDKit, LAMMPS, and py3Dmol, this pr
 The easiest way to run this project is through MyBinder.org. It requires no installation or setup on your local machine.
 
 1.  Click the "Launch Binder" badge below. This will open the project in a live JupyterLab environment.
-    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/HEAD?filepath=main_simulation.ipynb)
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/devanshu-777/PackSynth/HEAD?filepath=main_simulation.ipynb)
 
 2.  Once the environment is ready (it may take a few minutes for the first launch), the `main_simulation.ipynb` notebook will open.
 
@@ -31,8 +31,8 @@ If you prefer to run the project locally, you will need to set up a `conda` envi
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
-    cd YOUR_REPO_NAME
+    git clone https://github.com/devanshu-777/PackSynth.git
+    cd PackSynth
     ```
 
 2.  **Create and Activate the Conda Environment:**
